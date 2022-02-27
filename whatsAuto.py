@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-
 iperson = input("Enter person name or contact here: ")
 imessage = input("Type Your Message here: ")
 
